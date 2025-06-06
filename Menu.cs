@@ -30,7 +30,12 @@ public class Menu
                         ejercicioUno.Uno();
                     }
                     break;
-
+                case 2:
+                    {
+                        ejercicioDos ejercicioDos = new ejercicioDos();
+                        ejercicioDos.Dos();
+                    }
+                    break;
                 case 10:
                     {
                         Console.WriteLine("Nos vimos");
