@@ -12,3 +12,4 @@ C:\Users\LucasPC\Desktop\ProyectosNuevos\Facultad\C#\practicoNro5PilaCola\obj\De
 C:\Users\LucasPC\Desktop\ProyectosNuevos\Facultad\C#\practicoNro5PilaCola\obj\Debug\net9.0\practicoNro5PilaCola.pdb
 C:\Users\LucasPC\Desktop\ProyectosNuevos\Facultad\C#\practicoNro5PilaCola\obj\Debug\net9.0\practicoNro5PilaCola.genruntimeconfig.cache
 C:\Users\LucasPC\Desktop\ProyectosNuevos\Facultad\C#\practicoNro5PilaCola\obj\Debug\net9.0\ref\practicoNro5PilaCola.dll
+C:\Users\LucasPC\Desktop\ProyectosNuevos\Facultad\C#\practicoNro5PilaCola\obj\Debug\net9.0\practicoNro5PilaCola.sourcelink.json
