@@ -1,0 +1,14 @@
+C:\Users\LucasPC\Desktop\ProyectosNuevos\Facultad\C#\practicoNro5PilaCola\bin\Debug\net9.0\practicoNro5PilaCola.exe
+C:\Users\LucasPC\Desktop\ProyectosNuevos\Facultad\C#\practicoNro5PilaCola\bin\Debug\net9.0\practicoNro5PilaCola.deps.json
+C:\Users\LucasPC\Desktop\ProyectosNuevos\Facultad\C#\practicoNro5PilaCola\bin\Debug\net9.0\practicoNro5PilaCola.runtimeconfig.json
+C:\Users\LucasPC\Desktop\ProyectosNuevos\Facultad\C#\practicoNro5PilaCola\bin\Debug\net9.0\practicoNro5PilaCola.dll
+C:\Users\LucasPC\Desktop\ProyectosNuevos\Facultad\C#\practicoNro5PilaCola\bin\Debug\net9.0\practicoNro5PilaCola.pdb
+C:\Users\LucasPC\Desktop\ProyectosNuevos\Facultad\C#\practicoNro5PilaCola\obj\Debug\net9.0\practicoNro5PilaCola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasPC\Desktop\ProyectosNuevos\Facultad\C#\practicoNro5PilaCola\obj\Debug\net9.0\practicoNro5PilaCola.AssemblyInfoInputs.cache
+C:\Users\LucasPC\Desktop\ProyectosNuevos\Facultad\C#\practicoNro5PilaCola\obj\Debug\net9.0\practicoNro5PilaCola.AssemblyInfo.cs
+C:\Users\LucasPC\Desktop\ProyectosNuevos\Facultad\C#\practicoNro5PilaCola\obj\Debug\net9.0\practicoNro5PilaCola.csproj.CoreCompileInputs.cache
+C:\Users\LucasPC\Desktop\ProyectosNuevos\Facultad\C#\practicoNro5PilaCola\obj\Debug\net9.0\practicoNro5PilaCola.dll
+C:\Users\LucasPC\Desktop\ProyectosNuevos\Facultad\C#\practicoNro5PilaCola\obj\Debug\net9.0\refint\practicoNro5PilaCola.dll
+C:\Users\LucasPC\Desktop\ProyectosNuevos\Facultad\C#\practicoNro5PilaCola\obj\Debug\net9.0\practicoNro5PilaCola.pdb
+C:\Users\LucasPC\Desktop\ProyectosNuevos\Facultad\C#\practicoNro5PilaCola\obj\Debug\net9.0\practicoNro5PilaCola.genruntimeconfig.cache
+C:\Users\LucasPC\Desktop\ProyectosNuevos\Facultad\C#\practicoNro5PilaCola\obj\Debug\net9.0\ref\practicoNro5PilaCola.dll

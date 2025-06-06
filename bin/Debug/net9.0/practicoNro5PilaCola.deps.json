@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "practicoNro5PilaCola/1.0.0": {
+        "runtime": {
+          "practicoNro5PilaCola.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "practicoNro5PilaCola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
