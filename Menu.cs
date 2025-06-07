@@ -12,6 +12,10 @@ public class Menu
             Console.WriteLine("Opciones del menu: ");
             Console.WriteLine("1. Ejercicio 1");
             Console.WriteLine("2. Ejercicio 2");
+            Console.WriteLine("3. Ejercicio 3");
+            Console.WriteLine("10. Salir");
+
+
 
             Console.WriteLine("Opcion: ");
 
@@ -19,7 +23,7 @@ public class Menu
 // esto es una condicional, si opc es mayor a 1 "y" opc es menor a 10 te deja entrar
             if (opc < 1 || opc > 10) // Pero si opc es 11 o 12 se cumple la condicion y te muestra un mensaje
             {
-                Console.WriteLine("Ingrese una opcion erronea ");
+                Console.WriteLine("Ingreso una opcion erronea ");
             }
             switch (opc) //estp es un menu, opc es el valor o numero q vamos a ingresar, por eso pusimos la condicional arriba de 1 a 10
             {
@@ -34,6 +38,12 @@ public class Menu
                     {
                         ejercicioDos ejercicioDos = new ejercicioDos();
                         ejercicioDos.Dos();
+                    }
+                    break;
+                case 3:
+                    {
+                        EjercicioTres ejercicioTre = new EjercicioTres();
+                        ejercicioTre.Tres();
                     }
                     break;
                 case 10:
